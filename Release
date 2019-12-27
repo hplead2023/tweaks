@@ -1,0 +1,11 @@
+Origin: KidsiOS Repository
+Label: KidsiOS Repository
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Somes Tweaks Support For KidsAuto iOS
+MD5Sum:
+ 77f8ca5ca8fb40b580788ea08a48c34b 2420 Packages
+ bb074cf79fa51c5c9f3e3cc7e99482e6 1166 Packages.bz2
